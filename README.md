@@ -1,7 +1,4 @@
-Certainly! Here's a concise version of the `README.md` file:
 
-```markdown
-# Local HTML File with External CSS and JavaScript
 
 This guide provides instructions on starting an HTML file locally with external CSS and JavaScript files.
 
