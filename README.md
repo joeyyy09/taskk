@@ -1,4 +1,5 @@
 
+![image](https://github.com/joeyyy09/taskk/assets/109957201/1bcb3804-df4c-4f3a-9a01-0c78335e3dfe)
 
 This guide provides instructions on starting an HTML file locally with external CSS and JavaScript files.
 
