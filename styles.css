@@ -4,7 +4,7 @@ body {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
   text-align: center;
 }
@@ -23,7 +23,7 @@ h2 {
 
 .box {
   flex: 1;
-  height: 31.25rem;
+  height: 60vh;
   width: 31.25rem;
   padding: 2rem;
   color: white;
@@ -62,10 +62,10 @@ h2 {
 .reset-button {
   background-color: #34495e; /* Dark grey color */
   color: white;
-  padding: 1rem 2rem;
+  padding: 1rem 2.5rem;
   border-radius: 5px;
   border: none;
-  font-size: 1rem;
+  font-size: 1.5rem;
   cursor: pointer;
   display: block;
   margin: 2rem auto;
@@ -79,9 +79,15 @@ h2 {
 @media (max-width: 768px) {
   .container-wrapper {
     flex-direction: column;
-    gap: 0;
+    align-items: center;
   }
   .box {
     width: 80%;
+    height: 80vh;
   }
+
+  .item{
+    padding: 2rem;
+  }
+
 }
